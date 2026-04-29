@@ -1,0 +1,7 @@
+users:
+  - username: Pranav
+    roles: [AmazonEC2FullAccess]
+  - username: Rahul
+    roles: [AmazonS3ReadOnlyAccess]
+  - username: Suyash
+    roles: [AmazonS3ReadOnlyAccess, AmazonEC2ReadOnlyAccess] 
